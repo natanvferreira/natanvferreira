@@ -74,10 +74,3 @@ Baixe vários vídeos do YouTube de uma vez, em vídeo ou MP3, com uma interface
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=natanvferreira&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
-
-## 📫 Bora conversar?
-
-<div>
-  <a href="https://www.linkedin.com/in/natan-vitor-ferreira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:natanvitorferreira01@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
