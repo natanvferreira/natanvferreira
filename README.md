@@ -58,11 +58,11 @@ Tracker de animes e mangás no estilo AniList. Agrupa automaticamente as obras p
 > 🔒 Código privado — em breve no ar!
 
 ### ⬇️ BaixaAí
-DESCRIÇÃO_DO_BAIXAAI
+Baixe vários vídeos do YouTube de uma vez, em vídeo ou MP3, com uma interface simples. É só baixar o .exe e usar, sem instalar nada
 
 `Python`
 
-> 📂 [Ver repositório](https://github.com/natanvferreira/baixaai)
+> 📂 [Ver repositório](https://github.com/natanvferreira/baixai)
 
 ## 📊 Estatísticas
 
