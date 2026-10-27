@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou o Natan Vitor Ferreira 🖐️</h1>
+<h1 align="center">Olá! Eu sou o Natan Vitor Ferreira Dias 🖐️</h1>
 
 <p align="center">
   Desenvolvedor <b>Fullstack Web</b> há <b>5 anos</b>, transformando café em código (e bug em feature, às vezes 😅)
